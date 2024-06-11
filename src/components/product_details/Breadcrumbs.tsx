@@ -1,18 +1,20 @@
-import { Link } from 'react-router-dom';
 import React from "react";
+import { Link } from 'react-router-dom';
 
-interface ProductData { // create a type for the product prop
+
+// Define the ProductData interface, it removes unused properties that product has and only keep the category and name
+interface ProductData {
     category: string;
     name: string;
 }
 
+// Definition for the interface BreadcrumbProps that represents the props that the Breadcrumb component should receive
 interface BreadcrumbProps {
     product: ProductData;
 }
 
+// This component creates a responsive breadcrumb navigation for the product details page
 const Breadcrumb: React.FC<BreadcrumbProps> = ({ product }) => (
-
-
     <section className="text-xs flex w-full border-b-2 border-[#260065]/75 overflow-x-auto no-scrollbar">
         <ol className="flex items-center whitespace-nowrap pl-4 pb-1 pt-2" aria-label="Breadcrumb">
             <li className="inline-flex items-center">
@@ -21,7 +23,6 @@ const Breadcrumb: React.FC<BreadcrumbProps> = ({ product }) => (
                     <path d="M6 13L10 3" stroke="#260065" strokeLinecap="round" />
                 </svg>
             </li>
-
             <li className="inline-flex items-center text-xs opacity-50">
                 {product.name}
             </li>

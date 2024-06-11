@@ -1,3 +1,4 @@
+// Component to display the cart icon
 export const SvgIconCart = () => (
     <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5 md:w-6 md:h-6 lg:w-7 lg:h-7 2xl:w-8 2xl:h-8"
          width="25" height="25" viewBox="0 0 24 24">

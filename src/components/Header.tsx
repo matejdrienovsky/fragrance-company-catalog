@@ -1,4 +1,4 @@
-import logo from '../assets/scent-sphere-3.png';
+import logo from '../assets/scent-sphere.png';
 import {SvgIconUser, SvgIconMoon, SvgIconCart} from "./icons/Icons.tsx";
 
 // Component to display the header of the application with the logo and the user icons

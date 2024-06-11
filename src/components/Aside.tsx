@@ -1,4 +1,4 @@
-import logo from '../assets/scent-sphere-3.png'
+import logo from '../assets/scent-sphere.png'
 import React, {FC} from "react";
 
 // NavLink component to be used in the Aside component

@@ -5,7 +5,7 @@ const ProductCard: React.FC<ProductProps> = ({ product ,isNew }) => {
 
     return (
         <a className="flex flex-col gap-y-4 relative w-full h-full min-w-42 min-h-56 max-w-52 max-h-76 p-2 rounded-lg hover:outline-2 hover:outline-[#260065]/20 hover:text-[#531DACFF] hover:transition-all hover:transition-100"
-           href={`/product/show/${product.id}`}>
+           href={`/product/${product.id}`}>
 
             {isNew && <span className="absolute top-0 right-0 px-1 rounded-lg bg-[#260065] text-[#F5F5F5]">New</span>}
 

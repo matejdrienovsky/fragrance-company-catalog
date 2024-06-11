@@ -6,6 +6,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -17,6 +18,7 @@
         {
           "reviewer": "John Doe",
           "comment": "Great scent!",
+          "profile_picture": "src/assets/profile_pictures/john_doe.png",
           "rating": 5
         },
         {
@@ -32,6 +34,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -58,6 +61,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -85,6 +89,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -112,6 +117,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -139,6 +145,7 @@
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -166,6 +173,7 @@
       "category": "Musk",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",
@@ -193,6 +201,7 @@
       "category": "Fruity",
       "description": "A pleasant floral fragrance.",
       "price": 19.99,
+      "sizes": ["30ml", "50ml"],
       "images": [
         "src/assets/product_photos/dior_1.png",
         "src/assets/product_photos/dior_2.png",

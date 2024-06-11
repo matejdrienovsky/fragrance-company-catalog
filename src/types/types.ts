@@ -5,6 +5,7 @@ export interface Product {
     description: string;
     price: number;
     images: string[];
+    sizes: string[];
     reviews: Review[];
 }
 
@@ -22,6 +23,7 @@ export type ProductProps = {
         description: string;
         price: number;
         images: string[];
+        sizes: string[];
         reviews: Review[];
     }
     isNew?: boolean;

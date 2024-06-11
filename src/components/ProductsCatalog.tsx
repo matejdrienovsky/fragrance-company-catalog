@@ -3,7 +3,6 @@ import ProductCard from './ProductCard';
 import { ProductContext } from '../contexts/ProductContext.tsx';
 import { Product } from '../types/types';
 
-
 const ProductCatalog = () => {
     const { products, error } = useContext(ProductContext);
 

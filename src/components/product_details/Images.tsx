@@ -1,6 +1,12 @@
+import { useState } from 'react';
+
 const Images = ({ images }: { images: string[] }) => {
-    const mainImage = images[0] || '';
+    const [mainImage, setMainImage] = useState(images[0] || '');
     const secondaryImages = images.slice(1);
+
+    const handleImageClick = (image: string) => {
+        setMainImage(image);
+    }
 
     return (
         <section className="flex flex-col justify-around items-center h-full">
@@ -13,7 +19,11 @@ const Images = ({ images }: { images: string[] }) => {
             </div>
             <div className="flex flex-row justify-center items-center w-full gap-x-2">
                 {secondaryImages.map((image, index) => (
-                    <div key={index} className="rounded-lg border border-double border-transparent hover:border-violet-500">
+                    <div
+                        key={index}
+                        className="rounded-lg border border-double border-transparent hover:border-violet-500"
+                        onClick={() => handleImageClick(image)}
+                    >
                         <img
                             className="w-20 h-20 md:w-24 md:h-24 xl:w-28 xl:h-28 object-contain rounded-lg secondary-image cursor-pointer"
                             src={`/${image}`}

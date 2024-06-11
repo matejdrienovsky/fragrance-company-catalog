@@ -16,7 +16,7 @@ const ProductCard: React.FC<ProductProps> = ({ product ,isNew }) => {
             </div>
             <div className="flex flex-col h-full justify-between text-xs md:text-sm lg:text-base">
                 <p className="font-normal">{product.name}</p>
-                <p className="text-sm md:text-base lg:text-lg font-bold">${product.price}</p>
+                <p className="text-sm md:text-base lg:text-lg font-bold">${product.prices[0]}</p>
             </div>
         </a>
     )

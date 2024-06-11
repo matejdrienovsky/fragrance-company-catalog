@@ -3,7 +3,7 @@ export interface Product {
     name: string;
     category: string;
     description: string;
-    price: number;
+    prices: number[];
     images: string[];
     sizes: string[];
     reviews: Review[];
@@ -21,7 +21,7 @@ export type ProductProps = {
         name: string;
         category: string;
         description: string;
-        price: number;
+        prices: number[];
         images: string[];
         sizes: string[];
         reviews: Review[];

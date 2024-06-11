@@ -23,7 +23,6 @@ const Aside = () => {
     // Routes will be used to navigate to different pages in the future
     const routes = [
         { path: "/products", label: "Products" },
-        { path: "/sign up", label: "Sign up" },
         { path: "/about", label: "About" },
         { path: "/terms", label: "Terms" },
         { path: "/shipping", label: "Shipping" },

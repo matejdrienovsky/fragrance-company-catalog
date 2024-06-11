@@ -5,18 +5,20 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
         {
           "reviewer": "John Doe",
           "comment": "Great scent!",
+          "profile_picture": "src/assets/profile_pictures/john_doe.png",
           "rating": 5
         },
         {
@@ -31,12 +33,13 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -57,12 +60,13 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -84,12 +88,13 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -111,12 +116,13 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -138,12 +144,13 @@
       "name": "Floral Scent",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -165,12 +172,13 @@
       "name": "Musk Scent",
       "category": "Musk",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -192,12 +200,13 @@
       "name": "Fruity Scent",
       "category": "Fruity",
       "description": "A pleasant floral fragrance.",
-      "price": 19.99,
+      "prices": [19.99, 29.99],
+      "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [

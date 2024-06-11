@@ -5,7 +5,7 @@ const ProductCard: React.FC<ProductProps> = ({ product ,isNew }) => {
 
     return (
         <a className="flex flex-col gap-y-4 relative w-full h-full min-w-42 min-h-56 max-w-52 max-h-76 p-2 rounded-lg hover:outline-2 hover:outline-[#260065]/20 hover:text-[#531DACFF] hover:transition-all hover:transition-100"
-           href={`/product/show/${product.id}`}>
+           href={`/product/${product.id}`}>
 
             {isNew && <span className="absolute top-0 right-0 px-1 rounded-lg bg-[#260065] text-[#F5F5F5]">New</span>}
 
@@ -16,7 +16,7 @@ const ProductCard: React.FC<ProductProps> = ({ product ,isNew }) => {
             </div>
             <div className="flex flex-col h-full justify-between text-xs md:text-sm lg:text-base">
                 <p className="font-normal">{product.name}</p>
-                <p className="text-sm md:text-base lg:text-lg font-bold">${product.price}</p>
+                <p className="text-sm md:text-base lg:text-lg font-bold">${product.prices[0]}</p>
             </div>
         </a>
     )

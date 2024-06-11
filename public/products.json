@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Floral Scent",
+      "category": "Floral",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "name": "Musk Scent",
+      "category": "Musk",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Fruity Scent",
+      "category": "Fruity",
+      "description": "A pleasant floral fragrance.",
+      "price": 19.99,
+      "images": [
+        "src/assets/product_photos/dior_1.png",
+        "src/assets/product_photos/dior_2.png",
+        "src/assets/product_photos/dior_3.png",
+        "src/assets/product_photos/dior_4.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.8
+        }
+      ]
+    }
+  ]
+}

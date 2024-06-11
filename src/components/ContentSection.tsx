@@ -10,6 +10,8 @@ const ContentSection: React.FC = () => {
 
             {/* Include the Header component */}
             <Header/>
+
+            {/* Main part of the content */}
             <MainContentLayout/>
 
         </section>

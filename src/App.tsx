@@ -10,18 +10,14 @@ function App() {
 
     return (
         <Router>
-
             {/* Grid layout for the entire app */}
             <GridLayout>
                 <ContentSection/>
-
-
             </GridLayout>
 
             {/* The Hamburger component used for a small devices menu icon */}
             <Hamburger />
         </Router>
-
     )
 }
 

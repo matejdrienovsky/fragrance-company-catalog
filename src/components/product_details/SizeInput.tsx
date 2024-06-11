@@ -11,7 +11,7 @@ type SizeInputProps = {
 const SizeInput: React.FC<SizeInputProps> = ({sizes, size, setSize}) => {
     return (
         <div className="flex flex-col gap-y-1">
-            <p className="text-xs md:text-sm font-bold text-label">Size</p>
+            <p className="text-xs md:text-sm font-bold text-label max-md:mt-2">Size</p>
             <div className="flex items-baseline">
                 <div className="flex text-xs md:text-sm space-x-2">
                     {/* Iterate over the array of sizes and create a radio input for each */}

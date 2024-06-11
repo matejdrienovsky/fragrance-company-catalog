@@ -10,7 +10,7 @@ const SizeInput: React.FC<SizeInputProps> = ({sizes, size, setSize}) => {
 
     return (
         <div className="flex flex-col gap-y-1">
-            <p className="text-xs md:text-sm font-medium text-label">Size</p>
+            <p className="text-xs md:text-sm font-bold text-label">Size</p>
             <div className="flex items-baseline">
                 <div className="flex text-xs md:text-sm space-x-2">
                     {sizes.map(sizeOption => (

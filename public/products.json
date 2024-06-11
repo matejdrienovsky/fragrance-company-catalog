@@ -8,11 +8,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -37,11 +36,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -65,11 +63,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -94,11 +91,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -123,11 +119,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -152,11 +147,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -181,11 +175,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_2.png",
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [
@@ -210,11 +203,10 @@
       "prices": [19.99, 29.99],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "src/assets/product_photos/dior_1.png",
-        "src/assets/product_photos/dior_1.png",
-
-        "src/assets/product_photos/dior_3.png",
-        "src/assets/product_photos/dior_4.png"
+        "/assets/dior_1.png",
+        "/assets/dior_1.png",
+        "/assets/dior_3.png",
+        "/assets/dior_4.png"
       ],
 
       "reviews": [

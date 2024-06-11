@@ -1,4 +1,4 @@
-import logo from '../assets/paper-like-3.png'
+import logo from '../assets/scent-sphere-3.png'
 import React, {FC} from "react";
 
 // NavLink component to be used in the Aside component
@@ -34,7 +34,7 @@ const Aside = () => {
         <aside className="max-lg:hidden lg:row-span-10 bg-[#F5F5F5]">
             <nav className="flex flex-col justify-between h-full">
                 <a className="w-full h-auto" href="/">
-                    <img className="h-auto max-w-full mx-auto mt-4 pr-5" src={logo} alt="Paper Like logo"/>
+                    <img className="h-auto max-w-full mx-auto mt-[-25px] pr-5" src={logo} alt="Paper Like logo"/>
                 </a>
                 <ul className="flex flex-col pb-4 pl-4">
                     {routes.map((route) => <NavLink key={route.path} href={route.path} isProduct={route.label === "Products"}>{route.label}</NavLink>)}

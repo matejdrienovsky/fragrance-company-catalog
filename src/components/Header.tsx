@@ -1,4 +1,4 @@
-import logo from '../assets/paper-like-3.png';
+import logo from '../assets/scent-sphere-3.png';
 
 //Component to display cart icon
 const SvgIconCart = () => (
@@ -31,8 +31,8 @@ const SvgIconMoon = () => (
 const Header = () => (
     <header className="self-start flex-none w-full">
         <div className="flex justify-between lg:justify-end">
-            <a className="lg:hidden w-24 sm:w-32 md:w-36 h-auto pt-2" href="/">
-                <img className="max-w-full h-auto mx-auto mt-2 mb-4" src={logo} alt="Paper Like logo"/>
+            <a className="lg:hidden w-24 sm:w-32 md:w-36 h-auto" href="/">
+                <img className="max-w-full h-auto mx-auto" src={logo} alt="Paper Like logo"/>
             </a>
             <section className="flex gap-2 pr-4 pt-4 w-1/4 md:w-1/3 justify-end">
                 {/* Cart icon */}

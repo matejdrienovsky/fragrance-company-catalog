@@ -24,6 +24,16 @@
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
           "rating": 4.5
+        },
+        {
+          "reviewer": "John Doe",
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4
         }
       ]
     },
@@ -51,6 +61,11 @@
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
           "rating": 4
+        },
+        {
+          "reviewer": "John Doe",
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
         }
       ]
     },
@@ -181,6 +196,11 @@
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
           "rating": 4
+        },
+        {
+          "reviewer": "John Doe",
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
         }
       ]
     },
@@ -234,6 +254,11 @@
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
+          "rating": 5
+        },
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
           "rating": 5
         }
       ]
@@ -335,6 +360,11 @@
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
           "rating": 4
+        },
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
         }
       ]
     },

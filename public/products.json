@@ -2,71 +2,68 @@
   "products": [
     {
       "id": 1,
-      "name": "Floral Scent",
+      "name": "Gentle Fluidity",
       "category": "Floral",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "description": "Warm, aromatic and vibrant.",
+      "prices": [208, 660],
+      "sizes": ["35ml", "70ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/mfk_1.png",
+        "/assets/mfk_1.png",
+        "/assets/mfk_2.png",
+        "/assets/mfk_3.png"
       ],
 
       "reviews": [
         {
           "reviewer": "John Doe",
           "comment": "Great scent!",
-          "profile_picture": "src/assets/profile_pictures/john_doe.png",
           "rating": 5
         },
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4.5
         }
       ]
     },
     {
       "id": 2,
-      "name": "Floral Scent",
+      "name": "G-Spring",
       "category": "Floral",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "description": "Capture the scent of spring evenings in Provence",
+      "prices": [53, 255],
+      "sizes": ["10ml", "100ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/mm-springtime_1.png",
+        "/assets/mm-springtime_1.png",
+        "/assets/mm-springtime_2.png",
+        "/assets/mm-springtime_3.png"
       ],
 
       "reviews": [
         {
           "reviewer": "John Doe",
-          "comment": "Great scent!",
-          "rating": 5
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
         },
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4
         }
       ]
     },
     {
       "id": 3,
-      "name": "Floral Scent",
+      "name": "Al Haramain",
       "category": "Floral",
       "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
+      "prices": [44, 80],
       "sizes": ["30ml", "50ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/ahm_1.png",
+        "/assets/ahm_1.png"
       ],
 
       "reviews": [
@@ -78,23 +75,21 @@
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 5
         }
       ]
     },
 
     {
       "id": 4,
-      "name": "Floral Scent",
+      "name": "Good Girl",
       "category": "Floral",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "description": "The sweet, breathtaking and alluring qualities of Jasmine, bring Good Girl a bright of femininity.",
+      "prices": [72, 110],
+      "sizes": ["30ml", "80ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/ch_1.png",
+        "/assets/ch_1.png"
       ],
 
       "reviews": [
@@ -106,51 +101,48 @@
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4.5
         }
       ]
     },
 
     {
       "id": 5,
-      "name": "Floral Scent",
+      "name": "Emerald Thyme",
       "category": "Floral",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "description": "Inspired by an apothecary bottle.",
+      "prices": [120],
+      "sizes": ["100ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/jml_1.png",
+        "/assets/jml_1.png"
       ],
 
       "reviews": [
         {
           "reviewer": "John Doe",
-          "comment": "Great scent!",
-          "rating": 5
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
         },
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4
         }
       ]
     },
 
     {
       "id": 6,
-      "name": "Floral Scent",
-      "category": "Floral",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "name": "Perfumer H",
+      "category": "Fruity",
+      "description": "Distinctive to all who wear it.",
+      "prices": [156, 273],
+      "sizes": ["30ml", "90ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/ph_1.png",
+        "/assets/ph_1.png",
+        "/assets/ph_2.png"
       ],
 
       "reviews": [
@@ -162,45 +154,43 @@
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4.5
         }
       ]
     },
 
     {
       "id": 7,
-      "name": "Musk Scent",
-      "category": "Musk",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
-      "sizes": ["30ml", "50ml"],
+      "name": "Rain stops",
+      "category": "Fruity",
+      "description": "An aromatic aquatic scent laced with patchouli.",
+      "prices": [53, 225],
+      "sizes": ["10ml", "90ml"],
       "images": [
-        "/assets/dior_1.png",
-        "/assets/dior_1.png",
-        "/assets/dior_3.png",
-        "/assets/dior_4.png"
+        "/assets/mm-when_1.png",
+        "/assets/mm-when_1.png"
       ],
 
       "reviews": [
         {
           "reviewer": "John Doe",
-          "comment": "Great scent!",
-          "rating": 5
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
         },
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 4
         }
       ]
     },
 
     {
       "id": 8,
-      "name": "Fruity Scent",
+      "name": "Sauvage Parfum",
       "category": "Fruity",
-      "description": "A pleasant floral fragrance.",
-      "prices": [19.99, 29.99],
+      "description": "Parfum - Citrus and Woody Notes",
+      "prices": [98, 118],
       "sizes": ["30ml", "50ml"],
       "images": [
         "/assets/dior_1.png",
@@ -218,7 +208,184 @@
         {
           "reviewer": "Jane Doe",
           "comment": "Lovely fragrance.",
-          "rating": 4.8
+          "rating": 5
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "Sailing Day",
+      "category": "Fruity",
+      "description": "A fresh and uplifting fragrance.",
+      "prices": [53, 225],
+      "sizes": ["10ml", "100ml"],
+      "images": [
+        "/assets/mm-sd_1.png",
+        "/assets/mm-sd_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Amazingreen EDP",
+      "category": "Fruity",
+      "description": "A verdant olfactive explosion.",
+      "prices": [170, 217],
+      "sizes": ["50ml", "100ml"],
+      "images": [
+        "/assets/cdg_1.png",
+        "/assets/cdg_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Tom Ford MM",
+      "category": "Musk",
+      "description": "A richly luminous aura.",
+      "prices": [370, 780],
+      "sizes": ["30ml", "100ml"],
+      "images": [
+        "/assets/tf_1.png",
+        "/assets/tf_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tom Ford FF",
+      "category": "Musk",
+      "description": "An amber artisanal scent.",
+      "prices": [370, 780],
+      "sizes": ["30ml", "100ml"],
+      "images": [
+        "/assets/tff_1.png",
+        "/assets/tff_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "The Noir 29",
+      "category": "Musk",
+      "description": "A unisex ode to the noble tea leaf.",
+      "prices": [164, 535],
+      "sizes": ["15ml", "100ml"],
+      "images": [
+        "/assets/thenoir_1.png",
+        "/assets/thenoir_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Fragrance is absolutely divine.",
+          "rating": 3
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Grand Soir",
+      "category": "Musk",
+      "description": "Parisian opulence after dark.",
+      "prices": [208, 660],
+      "sizes": ["35ml", "70ml"],
+      "images": [
+        "/assets/mfkg_1.png",
+        "/assets/mfkg_1.png",
+        "/assets/mfkg_2.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tom Ford TL",
+      "category": "Musk",
+      "description": "An artisanal leather-laden scent.",
+      "prices": [265, 565],
+      "sizes": ["30ml", "100ml"],
+      "images": [
+        "/assets/tft_1.png",
+        "/assets/tft_1.png"
+      ],
+
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "comment": "Great scent!",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jane Doe",
+          "comment": "Lovely fragrance.",
+          "rating": 5
         }
       ]
     }
